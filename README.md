@@ -108,7 +108,7 @@ Control Dashboard: https://indigo-ingrid-61.tiiny.site
 
 Alert Channel (ntfy.sh): https://ntfy.sh/hanyang-rasbot-alert
 
-Demo Videos (YouTube):
+Demo Videos (YouTube):https://youtu.be/DDVC02X5CDU?si=JZ4S-2Hui75clsKT
 
 
 
